@@ -1,16 +1,14 @@
-## Hi there 👋
+##Olá! Bem vindo ao meu ao meu github👋
 
-<!--
-**leodiasplay/leodiasplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Atualmente estou trabalhando em Usina alta mogiana
+🌱 Atualmente estou aprendendo ASP NET.CORE MVC
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leodiasplay&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodiasplay&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=leodiasplay&bg_color=ffffff&color=000000&line=4c7df5&point=000000&area=true&hide_border=true)
+
+
+
